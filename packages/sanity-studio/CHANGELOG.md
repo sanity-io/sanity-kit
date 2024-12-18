@@ -1,5 +1,12 @@
 # @tinloof/sanity-plugin-pages-navigator
 
+## 1.5.0
+
+### Minor Changes
+
+- 3fe5ab5: Icon schema with custom select component
+- aa66ce9: localizedItem utility added to aid with i18n structure organization
+
 ## 1.4.0
 
 ### Minor Changes
